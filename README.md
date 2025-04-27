@@ -18,12 +18,17 @@ Pozwala na dodawanie uczniów, przypisywanie ocen, wyświetlanie średnich, a ta
 - JUnit 5 (testy jednostkowe)
 
 ## Struktura katalogów
-src/ 
-  ├── model/ # Logika aplikacji (model danych) 
-  ├── gui/ # Interfejs użytkownika 
-  ├── Main.java # Klasa startowa
-test/ 
-  ├── model/ # Testy jednostkowe (JUnit 5)
+StudentApp/
+├── src/
+│   ├── model/
+│   ├── gui/
+│   ├── Main.java
+│
+├── test/
+│   ├── model/
+│
+├── students.txt   # Plik danych (tworzy się po zapisie)
+├── README.md      # Opis projektu
   
 ## Wymagania
 - Java Development Kit (JDK) 17 lub wyżej
