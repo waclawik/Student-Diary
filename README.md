@@ -19,15 +19,25 @@ Pozwala na dodawanie uczniów, przypisywanie ocen, wyświetlanie średnich, a ta
 
 ## Struktura katalogów
 StudentApp/
+
 ├── src/
+
 │   ├── model/
+
 │   ├── gui/
+
 │   ├── Main.java
+
 │
+
 ├── test/
+
 │   ├── model/
+
 │
+
 ├── students.txt   # Plik danych (tworzy się po zapisie)
+
 ├── README.md      # Opis projektu
   
 ## Wymagania
